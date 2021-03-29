@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Marcel Frömberg
 
-- 😄 To visit me on Stackoverflow: https://stackoverflow.com/users/15282409/marcel-f
+- 😄 To visit me on Stack Overflow: https://stackoverflow.com/users/15282409/marcel-f
 <!--
 **mfroemmi/mfroemmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
