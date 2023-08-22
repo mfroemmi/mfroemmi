@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Fav languages
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,cs,dart)](https://skillicons.dev)
