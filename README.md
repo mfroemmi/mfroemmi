@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Fav languages
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,cs,dart)](https://skillicons.dev)
 
 ### Tools and Frameworks
