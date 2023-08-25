@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 ### Fav languages
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,cs,dart)](https://skillicons.dev)
+
+### Tools and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,visualstudio,flutter,unity,postman)](https://skillicons.dev)
