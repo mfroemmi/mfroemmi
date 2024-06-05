@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 ### Tools and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,visualstudio,flutter,unity,godot,blender,postman)](https://skillicons.dev)
+
+### Daily Dev Activities
+<a href="https://app.daily.dev/mfroemmi"><img src="https://api.daily.dev/devcards/v2/9T5bfBMyEV1rREssrQj7q.png?type=default&r=pmb" width="356" alt="Marcel's Dev Card"/></a>
