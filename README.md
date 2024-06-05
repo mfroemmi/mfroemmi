@@ -1,11 +1,13 @@
 <table border="0">
  <tr>
   <td>
-    
+
 ### Hi there 👋, I am Marcel Frömberg
 
-- 😄 To visit me on stack overflow: https://stackoverflow.com/users/15282409/marcel-f
-- ⚡ Check out my profile on codewars: https://www.codewars.com/users/mfroemmi
+- 😄 To visit me on stack overflow:
+  - https://stackoverflow.com/users/15282409/marcel-f
+- ⚡ Check out my profile on codewars:
+  - https://www.codewars.com/users/mfroemmi
 <!--
 **mfroemmi/mfroemmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +31,7 @@ Here are some ideas to get you started:
 
   </td>
   <td>
-      
+
 ### Daily Dev Activities
 <a href="https://app.daily.dev/mfroemmi"><img src="https://api.daily.dev/devcards/v2/9T5bfBMyEV1rREssrQj7q.png?type=default&r=pmb" width="256" alt="Marcel's Dev Card"/></a>
 
