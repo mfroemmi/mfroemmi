@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <td width="30%">
 
 ### Daily Dev Activities
-<a href="https://app.daily.dev/mfroemmi"><img src="https://api.daily.dev/devcards/v2/9T5bfBMyEV1rREssrQj7q.png?type=default&r=rdb" width="256" alt="Marcel's Dev Card"/></a>
+<a href="https://app.daily.dev/mfroemmi"><img src="https://api.daily.dev/devcards/v2/9T5bfBMyEV1rREssrQj7q.png?type=default&r=rdb" width="356" alt="Marcel's Dev Card"/></a>
 
   </td>
  </tr>
