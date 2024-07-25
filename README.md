@@ -1,6 +1,6 @@
 <table border="0">
  <tr valign="top">
-  <td width="50%">
+  <td width="70%">
 
 ### Hi there 👋, I am Marcel Frömberg
 
@@ -27,10 +27,13 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,cs,dart)](https://skillicons.dev)
 
 ### Tools and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,visualstudio,flutter,unity,godot,blender,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,visualstudio,flutter,postman)](https://skillicons.dev)
+
+### Game Development
+[![My Skills](https://skillicons.dev/icons?i=unity,godot,blender)](https://skillicons.dev)
 
   </td>
-  <td width="50%">
+  <td width="30%">
 
 ### Daily-Dev Activities
 <a href="https://app.daily.dev/mfroemmi"><img src="https://api.daily.dev/devcards/v2/9T5bfBMyEV1rREssrQj7q.png?type=default&r=rdb" width="356" alt="Marcel's Dev Card"/></a>
