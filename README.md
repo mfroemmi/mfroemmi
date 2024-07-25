@@ -1,6 +1,6 @@
 <table border="0">
  <tr valign="top">
-  <td width="70%">
+  <td width="50%">
 
 ### Hi there 👋, I am Marcel Frömberg
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,visualstudio,flutter,unity,godot,blender,postman)](https://skillicons.dev)
 
   </td>
-  <td width="30%">
+  <td width="50%">
 
 ### Daily-Dev Activities
 <a href="https://app.daily.dev/mfroemmi"><img src="https://api.daily.dev/devcards/v2/9T5bfBMyEV1rREssrQj7q.png?type=default&r=rdb" width="356" alt="Marcel's Dev Card"/></a>
