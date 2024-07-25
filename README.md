@@ -27,10 +27,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,cs,dart)](https://skillicons.dev)
 
 ### Tools and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,visualstudio,flutter,postman)](https://skillicons.dev)
-
-### Game Development
-[![My Skills](https://skillicons.dev/icons?i=unity,godot,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,visualstudio,flutter,unity,godot,blender,postman)](https://skillicons.dev)
 
   </td>
   <td width="30%">
